@@ -1,0 +1,7 @@
+#rabbitMQ
+rabbitmq.host=localhost
+rabbitmq.port=5672
+rabbitmq.username=guest
+rabbitmq.password=guest
+
+rabbimq.url=amqp://guest:guest@localhost:5672/
